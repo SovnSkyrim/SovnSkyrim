@@ -2,13 +2,17 @@
 
 I'm Loïc, a french developper, student at Epitech Lille.
 Online I use "Sovn" as username; which is where I spend most of time.
+
 I'm really interested in DIY Hardware, although only my keyboard and PC are custom so far.
+
 My main project and what takes most of my free time is [Aldrnari](https://github.com/SovnSkyrim/Aldrnari), a Skyrim Special Edition modlist made available by [Wabbajack](http://www.wabbajack.org/#/).
 
 ---
 
 Professionally, I'm interested in learning new languages as I'm still fairly new in programming as a whole.
 I'm mostly interested in deployment, sysadmin, and all kinds of backend-related stuff, like cybersec or A.I.
+
+---
 
 ### Here's a few personal projects
 
