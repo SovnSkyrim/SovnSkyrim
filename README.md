@@ -14,7 +14,7 @@ I'm mostly interested in deployment, sysadmin, and all kinds of backend-related 
 
 ---
 
-### Here's a few personal projects
+### Here's a few projects
 
  * A custom Linux workflow on Arch, using [Qtile](https://github.com/qtile/qtile) and [picom](https://github.com/yshui/picom).
 - 3 Wabbajack Lists
@@ -23,6 +23,7 @@ I'm mostly interested in deployment, sysadmin, and all kinds of backend-related 
   - and my favourite; [Aldrnari](https://github.com/SovnSkyrim/Aldrnari) - Project Alive
  * A few games for the terminal, written in C, using Ncurses
  * A command interpreter based on TCSH.
+ * A custom keyboard using a GMMK board and Kailh Copper Speed switches.
 
 <img 
      height="42" src="https://github.com/get-icon/geticon/blob/master/icons/archlinux.svg">
