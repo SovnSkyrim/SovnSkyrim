@@ -9,7 +9,8 @@ My main project and what takes most of my free time is [Aldrnari](https://github
 
 ---
 
-Professionally, I'm interested in learning new languages as I'm still fairly new in programming as a whole.
+Professionally, I'm interested in learning new problem solving skills as I'm still fairly new in programming as a whole.
+
 I'm mostly interested in deployment, sysadmin, and all kinds of backend-related stuff, like cybersec or A.I.
 
 ---
