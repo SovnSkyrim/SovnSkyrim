@@ -22,9 +22,9 @@ I'm mostly interested in all kinds of backend-related stuff, like deployment, al
   - [Among Sovngarde's Stars](https://github.com/SovnSkyrim/AmongSovngardesStars) - Project Abandonned
   - [QWEST!](https://github.com/SovnSkyrim/QWEST) - Project Abandonned
   - and my favourite; [Aldrnari](https://github.com/SovnSkyrim/Aldrnari) - Project Alive
- * A few games for the terminal, written in C, using Ncurses
- * A Corewar inspired pseudo assembly to bytecode compilator and a virtual machine for the game.
- * A command interpreter based on TCSH.
+ * A Sokoban and a Tetris for the terminal using Ncurses, so in C.
+ * A Corewar inspired pseudo assembly to bytecode compilator and a virtual machine for the game, in C.
+ * A command interpreter based on TCSH, in C.
  * A custom keyboard using a GMMK board and Kailh Copper Speed switches.
 
 <img 
