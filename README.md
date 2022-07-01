@@ -19,8 +19,8 @@ I'm mostly interested in all kinds of backend-related stuff, like deployment, al
 
  * A custom Linux workflow on Arch, using [Qtile](https://github.com/qtile/qtile) and [picom](https://github.com/yshui/picom).
 - 3 Wabbajack Lists
-  - [Among Sovngarde's Stars](https://github.com/SovnSkyrim/AmongSovngardesStars) - Project Abandonned
-  - [QWEST!](https://github.com/SovnSkyrim/QWEST) - Project Abandonned
+  - [Among Sovngarde's Stars](https://github.com/SovnSkyrim/AmongSovngardesStars) - Project Deprecated
+  - [QWEST!](https://github.com/SovnSkyrim/QWEST) - Project Deprecated
   - and my favourite; [Aldrnari](https://github.com/SovnSkyrim/Aldrnari) - Project Alive
  * A Sokoban and a Tetris for the terminal using Ncurses, so in C.
  * A Corewar inspired pseudo assembly to bytecode compilator and a virtual machine for the game, in C.
