@@ -23,9 +23,9 @@ I'm mostly interested in all kinds of backend-related stuff, like deployment, al
   - [QWEST!](https://github.com/SovnSkyrim/QWEST) - Project Deprecated
   - and my favourite; [Aldrnari](https://github.com/SovnSkyrim/Aldrnari) - Project Alive
 - C Projects!
-  - [A Sokoban game for the terminal using Ncurses, so in C.](https://github.com/SovnSkyrim/EPITECH-my_sokoban)
-  - [A Corewar inspired pseudo assembly to bytecode compilator and a virtual machine for the game, in C.](https://github.com/SovnSkyrim/EPITECH-Corewar)
-  - A command interpreter based on TCSH, in C.
+  - [A Sokoban game for the terminal using Ncurses.](https://github.com/SovnSkyrim/EPITECH-my_sokoban)
+  - [A Corewar inspired pseudo assembly to bytecode compilator and a virtual machine for the game.](https://github.com/SovnSkyrim/EPITECH-Corewar)
+  - A command interpreter based on TCSH.
  * A custom keyboard using a GMMK board and Kailh Copper Speed switches.
 
 <img 
