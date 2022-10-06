@@ -39,5 +39,3 @@ I'm mostly interested in all kinds of backend-related stuff, like deployment, al
 <img 
      height="42" src="https://github.com/get-icon/geticon/blob/master/icons/python.svg">
 ___
-
-[![Sovn's GitHub stats](https://github-readme-stats.vercel.app/api?username=SovnSkyrim&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
