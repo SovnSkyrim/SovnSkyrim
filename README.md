@@ -11,19 +11,19 @@ My main project and what takes most of my free time is [Aldrnari](https://github
 
 Professionally, I'm interested in learning new problem solving skills as I'm still fairly new in programming as a whole.
 
-I'm mostly interested in all kinds of backend-related stuff, like deployment, algorithms or A.I.
+I'm mostly in Rust/C++ development projets at school; and I love DevOps!
 
 ---
 
 ### Here's a few projects
 
- * A custom Linux workflow on Arch, using [Qtile](https://github.com/qtile/qtile) and [picom](https://github.com/yshui/picom).
+ * A custom Linux workflow on Arch.
 - 3 Wabbajack Lists
   - [Among Sovngarde's Stars](https://github.com/SovnSkyrim/AmongSovngardesStars) - Project Deprecated
   - [QWEST!](https://github.com/SovnSkyrim/QWEST) - Project Deprecated
   - and my favourite; [Aldrnari](https://github.com/SovnSkyrim/Aldrnari) - Project Alive
-- C Projects!
-  - [A Sokoban game for the terminal using Ncurses.](https://github.com/SovnSkyrim/EPITECH-my_sokoban)
+- Projects!
+  - [A Sokoban game for the terminal using Ncurses](https://github.com/SovnSkyrim/EPITECH-my_sokoban) & [a rewrite of it in Rust](https://github.com/SovnSkyrim/Rustoban)!
   - [A Corewar inspired pseudo assembly to bytecode compilator and a virtual machine for the game.](https://github.com/SovnSkyrim/EPITECH-Corewar)
   - A command interpreter based on TCSH.
  * A custom keyboard using a GMMK board and Kailh Copper Speed switches.
