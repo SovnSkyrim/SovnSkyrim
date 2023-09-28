@@ -28,14 +28,21 @@ I'm mostly in Rust/C++ development projets at school; and I love DevOps!
   - A command interpreter based on TCSH.
  * A custom keyboard using a GMMK board and Kailh Copper Speed switches.
 
+
+<img 
+     height="42" src="https://github.com/get-icon/geticon/blob/master/icons/c.svg">
+<img 
+     height="42" src="https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg">
+<img 
+     height="42" src="https://github.com/get-icon/geticon/blob/master/icons/rust.svg">
+<img 
+     height="42" src="https://github.com/get-icon/geticon/blob/master/icons/python.svg">
+<img 
+     height="42" src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg">
+<img 
+     height="42" src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg"> 
 <img 
      height="42" src="https://github.com/get-icon/geticon/blob/master/icons/archlinux.svg">
 <img 
      height="42" src="https://github.com/get-icon/geticon/blob/master/icons/bash.svg"> 
-<img 
-     height="42" src="https://github.com/get-icon/geticon/blob/master/icons/git-icon.svg"> 
-<img 
-     height="42" src="https://github.com/get-icon/geticon/blob/master/icons/c.svg">
-<img 
-     height="42" src="https://github.com/get-icon/geticon/blob/master/icons/python.svg">
 ___
