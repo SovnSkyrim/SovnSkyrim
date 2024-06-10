@@ -1,6 +1,6 @@
 ### Hey there!
 
-I'm Loïc, a french developper, student at Epitech Lille.
+I'm Zélie, a french developper, student at Epitech Lille.
 Online I use "Sovn" as username; which is where I spend most of time.
 
 I'm really interested in DIY Hardware, although only my keyboard and PC are custom so far.
